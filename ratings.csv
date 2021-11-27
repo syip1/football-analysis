@@ -1,0 +1,925 @@
+Name,Club,Position,Rating
+B. Leno,Arsenal,GK,85
+Hector Bellerin,Arsenal,RB,87
+S. Mustafi,Arsenal,CB,78
+David Luiz,Arsenal,CB,71
+K. Tierney,Arsenal,LB,78
+A. Maitland-Niles,Arsenal,RWB,76
+Dani Ceballos,Arsenal,CM,80
+G. Xhaka,Arsenal,CDM,80
+N. Pepe,Arsenal,RM,80
+A. Lacazette,Arsenal,ST,83
+P. Aubameyang,Arsenal,ST,87
+M. Smith,Arsenal,CDM,58
+T. Coyle,Arsenal,RW,56
+T. John-Jules,Arsenal,ST,57
+K. Mavropanos,Arsenal,CB,73
+J. Olowu,Arsenal,CB,57
+Z. Medley,Arsenal,CB,72
+J. Osei-Tutu,Arsenal,RM,66
+B. Sheaf,Arsenal,CDM,64
+Willian,Arsenal,RW,82
+E. Nketiah,Arsenal,ST,71
+L. Torreira,Arsenal,CDM,81
+B. Saka,Arsenal,LM,75
+S. Kolasinac,Arsenal,LB,78
+Cedric,Arsenal,RB,76
+M. Macey,Arsenal,GK,71
+R. Holding,Arsenal,CB,75
+J. Willock,Arsenal,CAM,71
+M. Elneny,Arsenal,CDM,76
+Gabriel,Arsenal,CB,78
+Pablo Mari,Arsenal,CB,80
+R. Nelson,Arsenal,RW,72
+W. Saliba,Arsenal,CB,74
+Gabriel Martinelli,Arsenal,LW,74
+M. Guendouzi,Arsenal,CDM,77
+C. Chambers,Arsenal,CB,70
+Sokratis,Arsenal,CB,71
+M. Ozil,Arsenal,CAM,82
+E. Smith Rowe,Arsenal,CAM,69
+F. Balogun,Arsenal,ST,60
+D. Iliev,Arsenal,GK,61
+T. Partey,Arsenal,CM,84
+M. McGuinness,Arsenal,CB,60
+M. Odegaard,Arsenal,CAM,83
+M. Ryan,Arsenal,GK,72
+R. Runarsson,Arsenal,GK,70
+B. Cottrell,Arsenal,CM,56
+M. Azeez,Arsenal,CM,60
+C. Cirjan,Arsenal,CM,62
+T. Bola,Arsenal,LB,58
+O. Nyland,Aston Villa,GK,72
+M. Cash,Aston Villa,RB,80
+E. Konsa,Aston Villa,CB,71
+T. Mings,Aston Villa,CB,75
+M. Targett,Aston Villa,LB,82
+Douglas Luiz,Aston Villa,CDM,75
+J. McGinn,Aston Villa,CM,76
+C. Hourihane,Aston Villa,CM,75
+Trezeguet,Aston Villa,LW,75
+O. Watkins,Aston Villa,ST,82
+J. Grealish,Aston Villa,LW,85
+I. Vassilev,Aston Villa,LW,61
+B. Traore,Aston Villa,RW,80
+A. El Ghazi,Aston Villa,RW,71
+M. Nakamba,Aston Villa,CDM,75
+F. Guilbert,Aston Villa,RB,76
+K. Hause,Aston Villa,CB,72
+A. Elmohamady,Aston Villa,RB,71
+E. Martinez,Aston Villa,GK,78
+N. Taylor,Aston Villa,LB,64
+B. Engels,Aston Villa,CB,56
+M. Samatta,Aston Villa,ST,81
+Jota,Aston Villa,RW,72
+Wesley,Aston Villa,ST,76
+K. Davis,Aston Villa,ST,68
+T. Heaton,Aston Villa,GK,78
+H. Lansbury,Aston Villa,CM,69
+J. Ramsey,Aston Villa,CAM,55
+L. Kalinic,Aston Villa,GK,75
+J. Steer,Aston Villa,GK,70
+C. Rowe,Aston Villa,CM,51
+L. Brunt,Aston Villa,CM,70
+D. Revan,Aston Villa,CB,55
+M. Tait,Aston Villa,ST,52
+R. Barkley,Aston Villa,CM,78
+T. Wright,Aston Villa,RM,57
+M. Sanson,Aston Villa,CM,78
+L. Barry,Aston Villa,N/A,74
+M. Ryan,Brighton & Hove Albion,GK,80
+T. Lamptey,Brighton & Hove Albion,RB,63
+B. White,Brighton & Hove Albion,CB,75
+L. Dunk,Brighton & Hove Albion,CB,78
+A. Webster,Brighton & Hove Albion,CB,72
+S. March,Brighton & Hove Albion,LM,75
+Y. Bissouma,Brighton & Hove Albion,CM,75
+S. Alzate,Brighton & Hove Albion,CM,80
+A. Lallana,Brighton & Hove Albion,CM,61
+N. Maupay,Brighton & Hove Albion,ST,75
+L. Trossard,Brighton & Hove Albion,LM,90
+J. van Hecke,Brighton & Hove Albion,CB,67
+R. Longman,Brighton & Hove Albion,RM,55
+T. McGill,Brighton & Hove Albion,GK,53
+T. Richards,Brighton & Hove Albion,CAM,57
+L. Ostigard,Brighton & Hove Albion,CB,69
+W. O'Hora,Brighton & Hove Albion,CB,58
+P. Tau,Brighton & Hove Albion,RW,73
+M. Clarke,Brighton & Hove Albion,CB,71
+J. Locadia,Brighton & Hove Albion,ST,75
+S. Duffy,Brighton & Hove Albion,CB,77
+G. Murray,Brighton & Hove Albion,ST,74
+A. Jahanbakhsh,Brighton & Hove Albion,RW,74
+A. Connolly,Brighton & Hove Albion,ST,70
+D. Stephens,Brighton & Hove Albion,CM,75
+A. Mac Allister,Brighton & Hove Albion,CAM,75
+J. Veltman,Brighton & Hove Albion,CB,77
+D. Burn,Brighton & Hove Albion,CB,75
+J. Steele,Brighton & Hove Albion,GK,67
+Bernardo,Brighton & Hove Albion,LB,74
+D. Propper,Brighton & Hove Albion,CM,70
+P. Gross,Brighton & Hove Albion,CM,77
+J. Izquierdo,Brighton & Hove Albion,LM,68
+J. Molumby,Brighton & Hove Albion,CM,67
+F. Andone,Brighton & Hove Albion,ST,74
+M. Sanders,Brighton & Hove Albion,CM,59
+Robert Sanchez,Brighton & Hove Albion,GK,64
+C. Walton,Brighton & Hove Albion,GK,72
+T. Baluta,Brighton & Hove Albion,CDM,71
+V. Gyokeres,Brighton & Hove Albion,LM,66
+A. Cochrane,Brighton & Hove Albion,LB,54
+J. Weir,Brighton & Hove Albion,CM,56
+J. Furlong,Brighton & Hove Albion,LB,54
+R. Yapi,Brighton & Hove Albion,RB,60
+D. Welbeck,Brighton & Hove Albion,ST,71
+A. Zeqiri,Brighton & Hove Albion,LW,66
+M. Karbownik,Brighton & Hove Albion,LB,68
+M. Caicedo,Brighton & Hove Albion,CM,61
+P. Gwargis,Brighton & Hove Albion,LM,58
+T. Jenks,Brighton & Hove Albion,CM,54
+U. Eneme-Ella,Brighton & Hove Albion,CAM,59
+L. Dendoncker,Brighton & Hove Albion,CB,60
+J. Moder,Brighton & Hove Albion,CDM,69
+N. Pope,Burnley,GK,82
+P. Bardsley,Burnley,RB,73
+J. Tarkowski,Burnley,CB,80
+B. Mee,Burnley,CB,82
+C. Taylor,Burnley,LB,79
+J. Brownhill,Burnley,CM,72
+A. Westwood,Burnley,CDM,78
+J. Cork,Burnley,CDM,77
+D. McNeil,Burnley,LM,78
+C. Wood,Burnley,ST,78
+A. Barnes,Burnley,ST,77
+R. Cooney,Burnley,RB,58
+A. Phillips,Burnley,CM,61
+B. Gibson,Burnley,CB,71
+J. Rodriguez,Burnley,ST,71
+M. Vydra,Burnley,CF,82
+J. Gudmundsson,Burnley,RM,73
+R. Brady,Burnley,LM,75
+M. Lowton,Burnley,RB,75
+K. Long,Burnley,CB,71
+B. Peacock-Farrell,Burnley,GK,69
+E. Pieters,Burnley,LB,74
+M. Goodridge,Burnley,CM,51
+B. Thomas,Burnley,CB,58
+J. Dunne,Burnley,CB,67
+J. Benson,Burnley,CDM,73
+A. Glennon,Burnley,LB,71
+W. Norris,Burnley,GK,65
+M. Thompson,Burnley,ST,61
+J. Mumbongo,Burnley,ST,57
+R. Harker,Burnley,ST,57
+A. Koiki,Burnley,LB,62
+M. Elva-Fountaine,Burnley,RB,54
+D. Stephens,Burnley,CDM,58
+A. Gomez Mancini,Burnley,CAM,60
+I. Diallo,Burnley,CM,55
+M. Richter,Burnley,GK,54
+W. Rickard,Burnley,CAM,56
+C. Barrett,Burnley,RB,56
+Kepa,Chelsea,GK,82
+Azpilicueta,Chelsea,RB,84
+A. Christensen,Chelsea,CB,79
+K. Zouma,Chelsea,CB,80
+Marcos Alonso,Chelsea,LB,81
+N. Kante,Chelsea,CDM,88
+Jorginho,Chelsea,CM,83
+K. Havertz,Chelsea,CAM,85
+M. Mount,Chelsea,CAM,80
+R. Loftus-Cheek,Chelsea,CM,70
+T. Werner,Chelsea,ST,85
+M. Guehi,Chelsea,CB,64
+C. Gallagher,Chelsea,CAM,70
+E. Ampadu,Chelsea,CB,85
+I. Ugbo,Chelsea,ST,62
+T. Chalobah,Chelsea,CDM,69
+D. Zappacosta,Chelsea,RB,78
+Kenedy,Chelsea,LM,76
+I. Brown,Chelsea,CAM,71
+L. Baker,Chelsea,CM,70
+J. Blackman,Chelsea,GK,69
+M. Batshuayi,Chelsea,ST,78
+O. Giroud,Chelsea,ST,79
+T. Abraham,Chelsea,ST,78
+M. Kovacic,Chelsea,CM,63
+R. Barkley,Chelsea,CM,70
+Thiago Silva,Chelsea,CB,85
+R. James,Chelsea,RB,77
+W. Caballero,Chelsea,GK,75
+Lucas Piazon,Chelsea,RW,56
+B. Chilwell,Chelsea,LB,81
+C. Pulisic,Chelsea,LW,81
+H. Ziyech,Chelsea,CAM,85
+A. Rudiger,Chelsea,CB,81
+C. Hudson-Odoi,Chelsea,RW,74
+B. Gilmour,Chelsea,CM,71
+Emerson,Chelsea,LB,79
+F. Tomori,Chelsea,CB,76
+M. Sarr,Chelsea,CB,75
+A. Baba,Chelsea,LB,75
+V. Moses,Chelsea,RM,82
+T. Bakayoko,Chelsea,CDM,80
+M. van Ginkel,Chelsea,CM,75
+D. Drinkwater,Chelsea,CM,73
+M. Miazga,Chelsea,CB,71
+E. Mendy,Chelsea,GK,20
+T. Anjorin,Chelsea,CAM,57
+C. Musonda,Chelsea,RM,73
+G. McEachran,Chelsea,CAM,58
+D. Sterling,Chelsea,RB,67
+Guaita,Crystal Palace,GK,80
+J. Ward,Crystal Palace,RB,76
+S. Dann,Crystal Palace,CB,73
+G. Cahill,Crystal Palace,CB,77
+P. van Aanholt,Crystal Palace,LB,77
+A. Townsend,Crystal Palace,RM,77
+L. Milivojevic,Crystal Palace,CDM,79
+J. McArthur,Crystal Palace,CM,75
+J. Schlupp,Crystal Palace,LM,74
+J. Ayew,Crystal Palace,ST,77
+W. Zaha,Crystal Palace,LM,66
+A. Sorloth,Crystal Palace,ST,77
+M. Batshuayi,Crystal Palace,ST,78
+C. Benteke,Crystal Palace,ST,72
+C. Kouyate,Crystal Palace,CDM,77
+J. McCarthy,Crystal Palace,CDM,76
+E. Eze,Crystal Palace,CAM,80
+M. Sakho,Crystal Palace,CB,76
+W. Hennessey,Crystal Palace,GK,75
+M. Meyer,Crystal Palace,LM,76
+N. Ferguson,Crystal Palace,RB,69
+J. Riedewald,Crystal Palace,CB,71
+M. Kelly,Crystal Palace,CB,59
+J. Tomkins,Crystal Palace,CB,76
+B. Pierrick,Crystal Palace,CAM,59
+T. Mitchell,Crystal Palace,LB,54
+C. Wickham,Crystal Palace,ST,69
+S. Henderson,Crystal Palace,GK,65
+N. Kirby,Crystal Palace,LM,60
+S. Woods,Crystal Palace,CB,70
+R. Inniss,Crystal Palace,CB,62
+J. Jach,Crystal Palace,CB,66
+N. Tavares,Crystal Palace,CB,54
+G. McGregor,Crystal Palace,CM,57
+N. Clyne,Crystal Palace,RB,76
+J. Butland,Crystal Palace,GK,73
+J. Mateta,Crystal Palace,ST,74
+D. Boateng,Crystal Palace,LB,61
+L. Dreher,Crystal Palace,CM,58
+J. Giddings,Crystal Palace,CDM,59
+L. Bryon,Crystal Palace,CB,56
+B. Aveiro,Crystal Palace,CF,58
+J. Pickford,Everton,GK,81
+S. Coleman,Everton,RB,79
+Y. Mina,Everton,CB,78
+M. Keane,Everton,CB,78
+L. Digne,Everton,LB,84
+Allan,Everton,CM,80
+A. Doucoure,Everton,CDM,78
+Andre Gomes,Everton,CM,58
+J. Rodriguez,Everton,CAM,82
+D. Calvert-Lewin,Everton,ST,84
+Richarlison,Everton,ST,81
+N. Markelo,Everton,RB,62
+S. Tarashaj,Everton,CAM,63
+M. Kean,Everton,ST,74
+G. Sigurdsson,Everton,CAM,81
+Bernard,Everton,LM,78
+F. Delph,Everton,CDM,77
+T. Walcott,Everton,RM,76
+M. Holgate,Everton,CB,77
+Joao Virginia,Everton,GK,63
+A. Iwobi,Everton,LM,77
+J. Kenny,Everton,RB,76
+T. Davies,Everton,CM,75
+J. Branthwaite,Everton,CB,62
+J. Gbamin,Everton,CDM,72
+B. Baningime,Everton,CDM,67
+A. Gordon,Everton,LW,65
+C. Tosun,Everton,ST,70
+Y. Bolasie,Everton,LW,83
+E. Simms,Everton,ST,63
+M. Besic,Everton,CM,71
+Sandro,Everton,ST,73
+K. John,Everton,RB,62
+J. Lossl,Everton,GK,73
+L. Gibson,Everton,CB,60
+B. Godfrey,Everton,CB,73
+C. Connolly,Everton,CDM,65
+M. Pennington,Everton,CB,67
+R. Olsen,Everton,GK,78
+J. King,Everton,ST,76
+N. Nkounkou,Everton,LB,80
+R. Astley,Everton,CB,59
+C. Ouzounidis,Everton,CB,59
+J. Bowler,Everton,RM,64
+N. Broadhead,Everton,LM,62
+B. Carroll,Everton,CM,56
+H. Hagan,Everton,CB,53
+E. Iversen,Everton,CM,57
+S. McAllister,Everton,CM,54
+M. Rodak,Fulham,GK,74
+D. Odoi,Fulham,RB,71
+M. Hector,Fulham,CB,72
+T. Ream,Fulham,CB,70
+J. Bryan,Fulham,LB,83
+H. Reed,Fulham,CDM,73
+T. Cairney,Fulham,CAM,76
+N. Kebano,Fulham,LW,56
+Ivan Cavaleiro,Fulham,LW,75
+J. Onomah,Fulham,CM,67
+A. Mitrovic,Fulham,ST,72
+S. Sessegnon,Fulham,N/A,65
+M. Fossey,Fulham,RB,75
+M. Taylor-Crossdale,Fulham,ST,61
+A. Mawson,Fulham,CB,70
+M. Bettinelli,Fulham,GK,71
+C. Christie,Fulham,RB,71
+A. Knockaert,Fulham,RW,71
+B. Decordova-Reid,Fulham,ST,81
+A. Kamara,Fulham,ST,70
+M. Lemina,Fulham,CM,70
+S. Johansen,Fulham,CM,80
+K. Tete,Fulham,RB,77
+A. Areola,Fulham,GK,82
+M. Le Marchand,Fulham,CB,70
+K. McDonald,Fulham,CDM,71
+A. Robinson,Fulham,LB,73
+A. Zambo Anguissa,Fulham,CM,77
+O. Aina,Fulham,LM,73
+J. Seri,Fulham,CM,77
+S. Jasper,Fulham,LM,61
+Fabricio,Fulham,GK,74
+T. Francois,Fulham,CM,57
+F. Carvalho,Fulham,CAM,57
+T. Abraham,Fulham,ST,57
+J. Opoku,Fulham,LB,71
+J. Harris,Fulham,CM,71
+J. Mundle-Smith,Fulham,LB,59
+J. Stansfield,Fulham,ST,58
+J. Andersen,Fulham,CB,76
+T. Adarabioyo,Fulham,CB,68
+R. Loftus-Cheek,Fulham,CM,77
+A. Lookman,Fulham,LM,76
+T. Kongolo,Fulham,CB,71
+J. Maja,Fulham,ST,72
+L. Murphy,Fulham,CB,58
+I. Meslier,Leeds United,GK,34
+L. Ayling,Leeds United,RB,70
+R. Koch,Leeds United,CB,76
+L. Cooper,Leeds United,CB,73
+S. Dallas,Leeds United,LB,73
+K. Phillips,Leeds United,CDM,82
+Helder Costa,Leeds United,RM,73
+Pablo Hernandez,Leeds United,CAM,75
+M. Klich,Leeds United,CM,75
+E. Alioski,Leeds United,LB,73
+P. Bamford,Leeds United,ST,74
+R. Edmondson,Leeds United,ST,58
+J. Stevens,Leeds United,RM,61
+Rafa Mujica,Leeds United,ST,62
+E. O'Kane,Leeds United,CDM,65
+L. De Bock,Leeds United,CB,67
+Rodrigo,Leeds United,ST,80
+J. Harrison,Leeds United,LM,80
+T. Roberts,Leeds United,CAM,70
+I. Poveda,Leeds United,RM,62
+B. Douglas,Leeds United,LB,72
+P. Struijk,Leeds United,N/A,60
+Kiko Casilla,Leeds United,GK,74
+J. Shackleton,Leeds United,CM,82
+A. Forshaw,Leeds United,CDM,70
+L. Davis,Leeds United,LB,64
+C. Summerville,Leeds United,RW,68
+O. Casey,Leeds United,CB,57
+M. Bogusz,Leeds United,CAM,60
+A. McCalmont,Leeds United,CDM,61
+R. Gotts,Leeds United,CM,61
+J. Gelhardt,Leeds United,ST,61
+G. Berardi,Leeds United,CB,80
+J. Grot,Leeds United,LW,64
+O. Bouy,Leeds United,CB,61
+C. Drameh,Leeds United,RB,71
+E. Caprile,Leeds United,GK,60
+C. Cresswell,Leeds United,CB,55
+Raphinha,Leeds United,RM,85
+B. Hosannah,Leeds United,RB,61
+Diego Llorente,Leeds United,CB,76
+S. Greenwood,Leeds United,CF,61
+J. Jenkins,Leeds United,CDM,57
+N. Huggins,Leeds United,LB,55
+Alisson,Liverpool,GK,90
+T. Alexander-Arnold,Liverpool,RB,87
+J. Gomez,Liverpool,CB,83
+V. van Dijk,Liverpool,CB,90
+A. Robertson,Liverpool,LB,65
+Fabinho,Liverpool,CDM,87
+J. Henderson,Liverpool,CDM,86
+G. Wijnaldum,Liverpool,CM,85
+Roberto Firmino,Liverpool,CF,87
+M. Salah,Liverpool,RW,81
+S. Mane,Liverpool,LW,90
+M. Boyes,Liverpool,LB,58
+A. Lewis,Liverpool,LB,60
+T. Awoniyi,Liverpool,ST,70
+S. Ojo,Liverpool,N/A,67
+Diogo Jota,Liverpool,LW,80
+T. Minamino,Liverpool,RW,89
+Thiago,Liverpool,CM,85
+N. Keita,Liverpool,CM,81
+J. Milner,Liverpool,CM,80
+K. Tsimikas,Liverpool,LB,76
+Adrian,Liverpool,GK,76
+J. Matip,Liverpool,CB,83
+A. Oxlade-Chamberlain,Liverpool,CM,80
+H. Elliott,Liverpool,RW,65
+D. Origi,Liverpool,ST,77
+N. Williams,Liverpool,RB,67
+C. Jones,Liverpool,CM,64
+X. Shaqiri,Liverpool,RM,81
+S. van den Berg,Liverpool,CB,65
+N. Phillips,Liverpool,CB,68
+M. Grujic,Liverpool,CM,75
+H. Wilson,Liverpool,RM,82
+R. Brewster,Liverpool,ST,82
+B. Woodburn,Liverpool,CAM,66
+L. Karius,Liverpool,GK,78
+C. Kelleher,Liverpool,GK,61
+L. Millar,Liverpool,LW,64
+K. Grabara,Liverpool,GK,67
+O. Kabak,Liverpool,CB,75
+B. Davies,Liverpool,CB,73
+B. Koumetio,Liverpool,CB,57
+Y. Larouci,Liverpool,LB,61
+R. Williams,Liverpool,CB,63
+P. Glatzel,Liverpool,ST,59
+J. Hardy,Liverpool,ST,55
+Ederson,Manchester City,GK,88
+K. Walker,Manchester City,RB,70
+Fernandinho,Manchester City,CB,84
+A. Laporte,Manchester City,CB,74
+B. Mendy,Manchester City,LB,81
+Rodri,Manchester City,CDM,81
+K. De Bruyne,Manchester City,CAM,82
+Bernardo Silva,Manchester City,RW,87
+R. Mahrez,Manchester City,RW,85
+Gabriel Jesus,Manchester City,ST,83
+R. Sterling,Manchester City,LW,88
+I. Kabore,Manchester City,RB,88
+A. Palaversa,Manchester City,CM,71
+Pedro Porro,Manchester City,RWB,73
+D. Arzani,Manchester City,RW,68
+Y. Herrera,Manchester City,CM,75
+A. Muric,Manchester City,GK,68
+K. Itakura,Manchester City,CB,68
+J. Harrison,Manchester City,LM,80
+L. Nmecha,Manchester City,ST,73
+Angelino,Manchester City,LB,80
+E. Palmer-Brown,Manchester City,CB,67
+I. Gundogan,Manchester City,CM,71
+Ferran Torres,Manchester City,RM,81
+P. Foden,Manchester City,CAM,79
+Joao Cancelo,Manchester City,RB,90
+N. Otamendi,Manchester City,CB,79
+N. Ake,Manchester City,CB,79
+Z. Steffen,Manchester City,GK,76
+M. Diskerud,Manchester City,CM,70
+S. Aguero,Manchester City,ST,89
+O. Zinchenko,Manchester City,LB,80
+J. Stones,Manchester City,CB,80
+Eric Garcia,Manchester City,CB,72
+P. Sandler,Manchester City,CB,69
+T. Doyle,Manchester City,CM,60
+S. Carson,Manchester City,GK,70
+Adrian Bernabe,Manchester City,CAM,61
+M. Smith,Manchester City,CM,66
+T. Harwood-Bellis,Manchester City,CB,61
+P. Roberts,Manchester City,RW,73
+Aleix Garcia,Manchester City,CAM,73
+T. Adarabioyo,Manchester City,CB,70
+J. Latibeaudiere,Manchester City,RB,64
+C. Gomes,Manchester City,CDM,65
+Ruben Dias,Manchester City,CB,82
+I. Ilic,Manchester City,CM,67
+Pablo Moreno,Manchester City,ST,68
+N. Bustos,Manchester City,ST,74
+L. Delap,Manchester City,ST,64
+F. Nmecha,Manchester City,CAM,62
+C. Palmer,Manchester City,CAM,73
+Y. Amankwah,Manchester City,CB,58
+J. Braaf,Manchester City,LW,63
+De Gea,Manchester United,GK,86
+A. Wan-Bissaka,Manchester United,RB,83
+V. Lindelof,Manchester United,CB,70
+H. Maguire,Manchester United,CB,82
+L. Shaw,Manchester United,LB,80
+P. Pogba,Manchester United,CM,86
+N. Matic,Manchester United,CDM,80
+M. Greenwood,Manchester United,RM,77
+M. Rashford,Manchester United,LM,85
+Bruno Fernandes,Manchester United,CAM,87
+A. Martial,Manchester United,ST,89
+D. Levitt,Manchester United,CM,63
+M. Kovar,Manchester United,GK,64
+A. Traore,Manchester United,LM,62
+T. Chong,Manchester United,LM,66
+Joel Pereira,Manchester United,GK,66
+O. Ighalo,Manchester United,ST,74
+D. van de Beek,Manchester United,CM,83
+Fred,Manchester United,CDM,81
+S. McTominay,Manchester United,CDM,79
+D. James,Manchester United,RM,77
+B. Williams,Manchester United,LB,75
+S. Romero,Manchester United,GK,80
+E. Bailly,Manchester United,CB,79
+Juan Mata,Manchester United,CAM,79
+J. Lingard,Manchester United,CAM,77
+T. Fosu-Mensah,Manchester United,RB,73
+Andreas Pereira,Manchester United,CAM,75
+D. Henderson,Manchester United,GK,80
+Diogo Dalot,Manchester United,RB,80
+C. Smalling,Manchester United,CB,79
+A. Tuanzebe,Manchester United,CB,73
+T. Mengi,Manchester United,CB,82
+P. Jones,Manchester United,CB,75
+L. Grant,Manchester United,GK,70
+M. Rojo,Manchester United,CB,75
+E. Laird,Manchester United,RB,66
+E. Galbraith,Manchester United,CDM,63
+F. Pellistri,Manchester United,RM,71
+D. Bernard,Manchester United,CB,62
+J. Garner,Manchester United,CDM,67
+E. Cavani,Manchester United,ST,84
+Alex Telles,Manchester United,LB,84
+A. Diallo,Manchester United,ST,73
+Arnau Puigmal,Manchester United,CM,63
+R. Devine,Manchester United,LB,62
+H. Mejbri,Manchester United,CAM,60
+A. Elanga,Manchester United,LM,63
+D. Bughail-Mellor,Manchester United,ST,62
+K. Schmeichel,Leicester City,GK,84
+T. Castagne,Leicester City,RM,81
+J. Evans,Leicester City,CB,80
+C. Soyuncu,Leicester City,CB,80
+J. Justin,Leicester City,RB,73
+W. Ndidi,Leicester City,CDM,84
+Y. Tielemans,Leicester City,CM,81
+J. Maddison,Leicester City,CAM,81
+Ayoze Perez,Leicester City,RW,82
+J. Vardy,Leicester City,ST,83
+H. Barnes,Leicester City,LW,81
+K. Sowah,Leicester City,ST,66
+G. Hirst,Leicester City,ST,64
+D. Iversen,Leicester City,GK,77
+K. Iheanacho,Leicester City,ST,74
+C. Under,Leicester City,RM,78
+M. Albrighton,Leicester City,RM,76
+D. Praet,Leicester City,CM,70
+D. Gray,Leicester City,LM,75
+W. Morgan,Leicester City,CB,73
+D. Ward,Leicester City,GK,74
+H. Choudhury,Leicester City,CDM,74
+N. Mendy,Leicester City,CDM,75
+C. Fuchs,Leicester City,LB,73
+L. Thomas,Leicester City,LB,62
+Ricardo Pereira,Leicester City,RB,85
+F. Benkovic,Leicester City,CB,74
+M. James,Leicester City,CM,66
+K. Dewsbury-Hall,Leicester City,CM,62
+D. Amartey,Leicester City,RB,73
+E. Jakupovic,Leicester City,GK,66
+F. Diabate,Leicester City,LM,71
+Adrien Silva,Leicester City,CM,76
+R. Ghezzal,Leicester City,RW,73
+I. Slimani,Leicester City,ST,77
+S. Hughes,Leicester City,CB,63
+W. Fofana,Leicester City,CB,75
+C. Wright,Leicester City,CM,61
+J. Eppiah,Leicester City,ST,61
+J. Knight,Leicester City,CB,66
+D. Johnson,Leicester City,CB,62
+A. Muskwe,Leicester City,ST,60
+L. Ndukwu,Leicester City,CAM,60
+A. Reghba,Leicester City,ST,58
+Sidnei Tavares,Leicester City,CAM,61
+K. Leshabela,Leicester City,CAM,59
+T. Suengchitthawon,Leicester City,CAM,59
+M. Clark,Leicester City,RB,61
+C. Odunze,Leicester City,GK,56
+M. Dubravka,Newcastle United,GK,83
+Manquillo,Newcastle United,RWB,76
+F. Schar,Newcastle United,CB,78
+J. Lascelles,Newcastle United,CB,77
+F. Fernandez,Newcastle United,CB,77
+J. Lewis,Newcastle United,LB,74
+I. Hayden,Newcastle United,CDM,77
+J. Shelvey,Newcastle United,CM,77
+A. Saint-Maximin,Newcastle United,LM,80
+C. Wilson,Newcastle United,ST,78
+M. Almiron,Newcastle United,CAM,82
+K. Watts,Newcastle United,CB,60
+T. Allan,Newcastle United,RM,77
+M. Sangare,Newcastle United,CM,56
+J. Turner,Newcastle United,GK,54
+Y. Muto,Newcastle United,ST,72
+F. Woodman,Newcastle United,GK,72
+F. Lejeune,Newcastle United,CB,77
+Joelinton,Newcastle United,ST,75
+D. Gayle,Newcastle United,ST,80
+R. Fraser,Newcastle United,LM,73
+M. Ritchie,Newcastle United,RM,77
+J. Hendrick,Newcastle United,RM,75
+S. Longstaff,Newcastle United,CM,73
+K. Darlow,Newcastle United,GK,73
+C. Clark,Newcastle United,CB,76
+M. Longstaff,Newcastle United,CM,72
+A. Carroll,Newcastle United,ST,74
+D. Yedlin,Newcastle United,RWB,76
+E. Krafth,Newcastle United,RB,71
+P. Dummett,Newcastle United,CB,71
+C. Atsu,Newcastle United,LM,81
+M. Gillespie,Newcastle United,GK,71
+J. Murphy,Newcastle United,RW,71
+H. Saivet,Newcastle United,CAM,66
+D. Barlaser,Newcastle United,CM,66
+J. Young,Newcastle United,CM,56
+R. Aarons,Newcastle United,LM,70
+E. Sorensen,Newcastle United,ST,75
+L. Cass,Newcastle United,RB,57
+J. Willock,Newcastle United,CAM,72
+E. Anderson,Newcastle United,CAM,61
+R. Vilca,Newcastle United,CAM,67
+J. White,Newcastle United,CM,59
+Y. Toure,Newcastle United,ST,73
+A. Lazaar,Newcastle United,LB,66
+L. Fabianski,West Ham United,GK,81
+R. Fredericks,West Ham United,RB,76
+I. Diop,West Ham United,CB,77
+A. Ogbonna,West Ham United,CB,77
+A. Cresswell,West Ham United,LB,64
+D. Rice,West Ham United,CDM,80
+T. Soucek,West Ham United,CDM,73
+J. Bowen,West Ham United,RM,70
+Pablo Fornals,West Ham United,LM,79
+M. Noble,West Ham United,CM,70
+M. Antonio,West Ham United,ST,82
+D. Kemp,West Ham United,RM,58
+W. Reid,West Ham United,CB,75
+S. Haller,West Ham United,ST,81
+Felipe Anderson,West Ham United,LM,74
+M. Lanzini,West Ham United,CAM,78
+R. Snodgrass,West Ham United,RM,71
+A. Yarmolenko,West Ham United,RM,77
+F. Balbuena,West Ham United,CB,75
+D. Randolph,West Ham United,GK,75
+A. Masuaku,West Ham United,LB,77
+J. Wilshere,West Ham United,CM,76
+B. Johnson,West Ham United,RB,62
+J. Cullen,West Ham United,CM,70
+Goncalo Cardoso,West Ham United,CB,66
+D. Martin,West Ham United,GK,66
+Xande Silva,West Ham United,RM,67
+N. Trott,West Ham United,GK,61
+C. Coventry,West Ham United,CM,59
+H. Ashby,West Ham United,RB,58
+A. Alese,West Ham United,CB,56
+O. Afolayan,West Ham United,ST,58
+Mesaque Dju,West Ham United,RM,58
+N. Holland,West Ham United,LW,82
+Bernardo Rosa,West Ham United,CAM,55
+V. Coufal,West Ham United,RB,78
+C. Dawson,West Ham United,CB,62
+S. Benrahma,West Ham United,CAM,77
+T. Akinola,West Ham United,CB,57
+J. Lingard,West Ham United,CAM,80
+A. Diallo,West Ham United,LM,82
+F. Alves,West Ham United,CB,62
+A. Lewis,West Ham United,CM,57
+E. Longelo,West Ham United,LB,53
+H. Lloris,Tottenham Hotspur,GK,87
+M. Doherty,Tottenham Hotspur,RWB,70
+T. Alderweireld,Tottenham Hotspur,CB,85
+E. Dier,Tottenham Hotspur,CDM,78
+B. Davies,Tottenham Hotspur,LB,80
+P. Hojbjerg,Tottenham Hotspur,CDM,80
+H. Winks,Tottenham Hotspur,CDM,76
+Lucas Moura,Tottenham Hotspur,RM,81
+H. Son,Tottenham Hotspur,LM,89
+G. Lo Celso,Tottenham Hotspur,CM,82
+H. Kane,Tottenham Hotspur,ST,88
+T. Parrott,Tottenham Hotspur,ST,65
+O. Skipp,Tottenham Hotspur,CDM,68
+T. Eyoma,Tottenham Hotspur,CB,61
+J. Roles,Tottenham Hotspur,CAM,63
+S. Tracey,Tottenham Hotspur,RM,60
+S. Bergwijn,Tottenham Hotspur,LM,80
+E. Lamela,Tottenham Hotspur,LM,77
+T. Ndombele,Tottenham Hotspur,CM,63
+M. Sissoko,Tottenham Hotspur,CM,70
+D. Sanchez,Tottenham Hotspur,CB,75
+S. Aurier,Tottenham Hotspur,RB,80
+J. Hart,Tottenham Hotspur,GK,75
+Reguilon,Tottenham Hotspur,LB,82
+D. Alli,Tottenham Hotspur,CAM,83
+Gedson Fernandes,Tottenham Hotspur,CM,75
+G. Bale,Tottenham Hotspur,RW,70
+J. Tanganga,Tottenham Hotspur,CB,71
+R. Sessegnon,Tottenham Hotspur,LM,75
+J. Foyth,Tottenham Hotspur,CB,75
+P. Gazzaniga,Tottenham Hotspur,GK,21
+D. Cirkin,Tottenham Hotspur,LB,61
+J. Clarke,Tottenham Hotspur,RM,67
+H. White,Tottenham Hotspur,CDM,81
+A. Whiteman,Tottenham Hotspur,GK,63
+C. Carter-Vickers,Tottenham Hotspur,CB,57
+G. Marsh,Tottenham Hotspur,CDM,62
+D. Rose,Tottenham Hotspur,LB,71
+J. Okedina,Tottenham Hotspur,RB,58
+B. Austin,Tottenham Hotspur,GK,64
+Vinicius,Tottenham Hotspur,ST,75
+J. Rodon,Tottenham Hotspur,CB,57
+J. Bennett,Tottenham Hotspur,LM,61
+J. Bowden,Tottenham Hotspur,CDM,47
+B. Lyons-Foster,Tottenham Hotspur,CB,57
+Rui Patricio,Wolverhampton Wanderers,GK,84
+Adama Traore,Wolverhampton Wanderers,RW,78
+W. Boly,Wolverhampton Wanderers,CB,80
+C. Coady,Wolverhampton Wanderers,CB,79
+R. Saiss,Wolverhampton Wanderers,CB,78
+Jonny,Wolverhampton Wanderers,LWB,81
+Ruben Neves,Wolverhampton Wanderers,CM,82
+Joao Moutinho,Wolverhampton Wanderers,CM,83
+Daniel Podence,Wolverhampton Wanderers,LW,78
+R. Jimenez,Wolverhampton Wanderers,ST,84
+Pedro Neto,Wolverhampton Wanderers,LW,72
+L. Campana,Wolverhampton Wanderers,ST,57
+T. Taylor,Wolverhampton Wanderers,CDM,54
+R. Giles,Wolverhampton Wanderers,LWB,63
+Bruno Jordao,Wolverhampton Wanderers,CM,62
+P. Cutrone,Wolverhampton Wanderers,ST,75
+M. Gibbs-White,Wolverhampton Wanderers,CM,70
+J. Kitolano,Wolverhampton Wanderers,LB,64
+Rafa Mir,Wolverhampton Wanderers,ST,70
+M. Sarkic,Wolverhampton Wanderers,GK,61
+Fabio Silva,Wolverhampton Wanderers,ST,69
+Vitor Ferreira,Wolverhampton Wanderers,CM,66
+L. Dendoncker,Wolverhampton Wanderers,CB,78
+Marcal,Wolverhampton Wanderers,LB,76
+Ruben Vinagre,Wolverhampton Wanderers,LWB,74
+K. Hoever,Wolverhampton Wanderers,RB,63
+J. Ruddy,Wolverhampton Wanderers,GK,70
+O. Rasmussen,Wolverhampton Wanderers,RWB,60
+M. Kilman,Wolverhampton Wanderers,CB,64
+M. Shabani,Wolverhampton Wanderers,CAM,62
+R. Bennett,Wolverhampton Wanderers,CB,72
+Roderick Miranda,Wolverhampton Wanderers,CB,69
+S. Diallo,Wolverhampton Wanderers,CM,71
+D. Sanderson,Wolverhampton Wanderers,RB,64
+N. Ennis,Wolverhampton Wanderers,ST,63
+T. Perry,Wolverhampton Wanderers,CM,56
+L. Matheson,Wolverhampton Wanderers,RB,61
+E. Francis,Wolverhampton Wanderers,CB,57
+L. Cundle,Wolverhampton Wanderers,CM,54
+L. Richards,Wolverhampton Wanderers,CB,53
+Christian Marques,Wolverhampton Wanderers,CB,58
+Leo Bonatini,Wolverhampton Wanderers,ST,73
+Nelson Semedo,Wolverhampton Wanderers,RWB,88
+R. Ait Nouri,Wolverhampton Wanderers,LWB,73
+J. Pardington,Wolverhampton Wanderers,GK,52
+Willian Jose,Wolverhampton Wanderers,ST,80
+O. Otasowie,Wolverhampton Wanderers,CDM,39
+C. Campbell,Wolverhampton Wanderers,CAM,57
+T. Corbeanu,Wolverhampton Wanderers,ST,57
+A. Samuels,Wolverhampton Wanderers,ST,55
+A. Sondergaard,Wolverhampton Wanderers,GK,58
+David Wang,Wolverhampton Wanderers,RW,56
+A. McCarthy,Southampton,GK,77
+K. Walker-Peters,Southampton,RB,75
+J. Stephens,Southampton,CB,75
+J. Bednarek,Southampton,CB,77
+R. Bertrand,Southampton,LB,78
+S. Armstrong,Southampton,RM,76
+J. Ward-Prowse,Southampton,CM,79
+Oriol Romeu,Southampton,CDM,70
+N. Redmond,Southampton,LM,81
+D. Ings,Southampton,ST,80
+S. Long,Southampton,ST,82
+M. Lemina,Southampton,CM,70
+M. Elyounoussi,Southampton,CAM,74
+C. Adams,Southampton,ST,74
+M. Obafemi,Southampton,ST,69
+S. Boufal,Southampton,LM,60
+M. Djenepo,Southampton,LM,71
+W. Smallbone,Southampton,CM,65
+J. Vestergaard,Southampton,CB,77
+F. Forster,Southampton,GK,76
+J. Vokins,Southampton,LB,62
+M. Salisu,Southampton,CB,70
+Y. Valery,Southampton,RWB,72
+N. Tella,Southampton,RW,61
+A. Gunn,Southampton,GK,74
+K. Ramsay,Southampton,RB,62
+J. Sims,Southampton,RM,70
+S. McQueen,Southampton,LB,66
+J. Hesketh,Southampton,CAM,81
+G. Carrillo,Southampton,ST,73
+W. Hoedt,Southampton,CB,75
+D. N'Lundulu,Southampton,ST,59
+T. O'Connor,Southampton,LB,62
+C. Slattery,Southampton,CM,60
+C. Klarer,Southampton,CB,60
+T. Walcott,Southampton,RM,77
+T. Minamino,Southampton,RW,76
+I. Diallo,Southampton,CDM,73
+W. Ferry,Southampton,LM,60
+H. Lewis,Southampton,GK,62
+A. Jankewitz,Southampton,CM,60
+C. Watts,Southampton,CM,60
+A. Tchaptchet,Southampton,CB,56
+S. Johnstone,West Bromwich Albion,GK,75
+D. Furlong,West Bromwich Albion,RB,71
+S. Ajayi,West Bromwich Albion,CB,73
+K. Bartley,West Bromwich Albion,CB,70
+K. Gibbs,West Bromwich Albion,LB,75
+J. Livermore,West Bromwich Albion,CDM,74
+R. Sawyers,West Bromwich Albion,CM,70
+M. Phillips,West Bromwich Albion,RM,75
+G. Diangana,West Bromwich Albion,LM,63
+Matheus Pereira,West Bromwich Albion,CAM,76
+C. Robinson,West Bromwich Albion,ST,72
+J. Griffiths,West Bromwich Albion,GK,55
+F. Azaz,West Bromwich Albion,CAM,73
+C. Morton,West Bromwich Albion,ST,63
+R. Tulloch,West Bromwich Albion,ST,60
+A. Palmer,West Bromwich Albion,GK,65
+C. Austin,West Bromwich Albion,ST,72
+H. Robson-Kanu,West Bromwich Albion,ST,70
+K. Edwards,West Bromwich Albion,LM,80
+R. Harper,West Bromwich Albion,CM,70
+C. Townsend,West Bromwich Albion,LB,71
+D. O'Shea,West Bromwich Albion,RB,68
+D. Button,West Bromwich Albion,GK,68
+K. Grosicki,West Bromwich Albion,LM,80
+B. Ivanovic,West Bromwich Albion,CB,80
+K. Zohore,West Bromwich Albion,ST,89
+C. Gallagher,West Bromwich Albion,CAM,70
+C. Kipre,West Bromwich Albion,CB,68
+A. Hegazi,West Bromwich Albion,CB,72
+S. Field,West Bromwich Albion,CDM,67
+L. Peltier,West Bromwich Albion,RB,69
+J. Bond,West Bromwich Albion,GK,64
+J. Soule,West Bromwich Albion,ST,60
+S. Shotton,West Bromwich Albion,CB,53
+R. Richards,West Bromwich Albion,LM,54
+O. Windsor,West Bromwich Albion,ST,53
+G. Harmon,West Bromwich Albion,LB,54
+R. Snodgrass,West Bromwich Albion,RM,77
+K. Grant,West Bromwich Albion,ST,73
+M. Diagne,West Bromwich Albion,ST,74
+O. Yokuslu,West Bromwich Albion,CDM,76
+A. Maitland-Niles,West Bromwich Albion,RWB,82
+A. Lonergan,West Bromwich Albion,GK,64
+A. Ramsdale,Sheffield United,GK,75
+G. Baldock,Sheffield United,RWB,81
+C. Basham,Sheffield United,CB,59
+J. Egan,Sheffield United,CB,78
+J. O'Connell,Sheffield United,CB,78
+E. Stevens,Sheffield United,LWB,78
+S. Berge,Sheffield United,CDM,79
+O. Norwood,Sheffield United,CM,77
+J. Fleck,Sheffield United,CM,77
+O. McBurnie,Sheffield United,ST,75
+D. McGoldrick,Sheffield United,ST,71
+I. Coulibaly,Sheffield United,CAM,60
+M. Dewhurst,Sheffield United,GK,55
+T. Smith,Sheffield United,ST,58
+R. Norrington-Davies,Sheffield United,LB,64
+S. Mallon,Sheffield United,LM,61
+J. Eastwood,Sheffield United,GK,61
+L. Freeman,Sheffield United,CAM,72
+L. Mousset,Sheffield United,ST,75
+B. Sharp,Sheffield United,ST,73
+J. Lundstram,Sheffield United,CM,76
+B. Osborn,Sheffield United,LWB,82
+J. Robinson,Sheffield United,CB,70
+J. Rodwell,Sheffield United,CB,67
+S. Moore,Sheffield United,GK,67
+E. Ampadu,Sheffield United,CB,85
+J. Bogle,Sheffield United,RB,72
+O. Burke,Sheffield United,ST,67
+M. Lowe,Sheffield United,LB,81
+P. Jagielka,Sheffield United,CB,72
+W. Foderingham,Sheffield United,GK,71
+K. Bryan,Sheffield United,CB,63
+M. Verrips,Sheffield United,GK,69
+R. Slater,Sheffield United,CM,74
+D. Parkhouse,Sheffield United,ST,59
+K. Gordon,Sheffield United,CB,52
+H. Boyes,Sheffield United,LWB,50
+J. Belehouan,Sheffield United,LB,50
+G. Broadbent,Sheffield United,CM,60
+R. Brewster,Sheffield United,ST,70
+S. Graham,Sheffield United,CB,56
+Z. Brunt,Sheffield United,CAM,57
